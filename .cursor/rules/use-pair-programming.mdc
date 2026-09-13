@@ -1,0 +1,10 @@
+---
+description: このプロジェクトは pair-programming skill を参照して開発を進める
+alwaysApply: true
+---
+
+# 開発の進め方
+
+このプロジェクトの開発は、`.cursor/skills/pair-programming/SKILL.md` に従って進める。
+
+ユーザーが開発の進行、実装、またはペアプログラミングを求めたときは、まずその skill を読み、そこに書かれた手順に従うこと。skill を読まずに実装を代行しない。
